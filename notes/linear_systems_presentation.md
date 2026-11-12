@@ -1,6 +1,6 @@
 # Systems of Linear Equations
 
-Worked solutions for exercises 1–10. Each solution includes the original problem, a method, calculation steps, and a mathematical check.
+Worked solutions for exercises 1–15. Each solution includes the original problem, a method, calculation steps, and a mathematical check.
 
 | Exercise | Main idea to explain |
 | --- | --- |
@@ -14,6 +14,11 @@ Worked solutions for exercises 1–10. Each solution includes the original probl
 | [8. Reusing elimination](../solutions/1_Algebra/04_systems_of_equations/problem_08_solution.md) | The same coefficient matrix gives the same elimination operations. |
 | [9. Two intersecting lines](../solutions/1_Algebra/04_systems_of_equations/problem_09_solution.md) | Different slopes give the unique intersection $(6,4)$. |
 | [10. Finding a polynomial](../solutions/1_Algebra/04_systems_of_equations/problem_10_solution.md) | Point conditions produce a linear system for the coefficients. |
+| [11. A parameter in three equations](../solutions/1_Algebra/04_systems_of_equations/problem_11_solution.md) | Check $t=1$ before dividing by $t-1$; the exceptional case is inconsistent. |
+| [12. A homogeneous system](../solutions/1_Algebra/04_systems_of_equations/problem_12_solution.md) | The free variable gives $(-s,s,s)$, including the zero solution. |
+| [13. A redundant equation](../solutions/1_Algebra/04_systems_of_equations/problem_13_solution.md) | Subtracting the second equation from the first gives the third. |
+| [14. A changed right-hand side](../solutions/1_Algebra/04_systems_of_equations/problem_14_solution.md) | Changing $3$ to $3.1$ turns a redundant equation into a contradiction. |
+| [15. Classifying three systems](../solutions/1_Algebra/04_systems_of_equations/problem_15_solution.md) | Stop elimination once pivots or a contradictory row determine the type. |
 
 ## A parameter changes consistency
 
